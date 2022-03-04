@@ -1,6 +1,10 @@
 # test1
 Authorization service
 
+
+### All the code is in master branch
+
+
 ### Server instalations (cd ..../server): 
 
 npm i express cors cookie-parser jsonwebtoken bcrypt uuid dotenv nodemailer  
